@@ -12,6 +12,7 @@ Bundle 'gmarik/vundle'
 " Code Completions
 "------------------
 Bundle 'Shougo/neocomplcache'
+Bundle 'vim-scripts/dbext.vim'
 Bundle 'ervandew/supertab'
 
 "-----------------
