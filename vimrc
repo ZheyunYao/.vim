@@ -107,7 +107,7 @@ hi Tb_VisibleNormal ctermbg=252 ctermfg=235
 hi Tb_VisibleChanged guifg=green ctermbg=252 ctermfg=white
 
 " easy-motion
-let g:EasyMotion_leader_key = '<Leader>'
+" let g:EasyMotion_leader_key = '<Leader>'
 
 " Tagbar
 let g:tagbar_left=1
@@ -205,11 +205,10 @@ nnoremap <F2> :set invpaste paste?<CR>
 set pastetoggle=<F2>
 nmap <F5> :TagbarToggle<cr>
 nmap <F6> :NERDTreeToggle<cr>
-nmap <F3> :GundoToggle<cr>
-nmap <F4> :IndentGuidesToggle<cr>
-nmap  <D-/> :
-nnoremap <leader>a :Ack
-nnoremap <leader>v V`]
+" nmap <F3> :GundoToggle<cr>
+" nmap <F4> :IndentGuidesToggle<cr>
+" nmap  <D-/> :
+" nnoremap <leader>v V`]
 
 "------------------
 " Useful Functions

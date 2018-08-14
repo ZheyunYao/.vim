@@ -18,16 +18,16 @@ Bundle 'ervandew/supertab'
 "-----------------
 " Fast navigation
 "-----------------
-Bundle 'Lokaltog/vim-easymotion'
+" Bundle 'Lokaltog/vim-easymotion'
 
 "--------------
 " Fast editing
 "--------------
-Bundle 'tpope/vim-surround'
-Bundle 'scrooloose/nerdcommenter'
-Bundle 'sjl/gundo.vim'
+" Bundle 'tpope/vim-surround'
+" Bundle 'scrooloose/nerdcommenter'
+" Bundle 'sjl/gundo.vim'
 Bundle 'godlygeek/tabular'
-Bundle 'nathanaelkane/vim-indent-guides'
+" Bundle 'nathanaelkane/vim-indent-guides'
 Bundle 'jiangmiao/auto-pairs'
 
 "--------------
@@ -36,7 +36,7 @@ Bundle 'jiangmiao/auto-pairs'
 Bundle 'scrooloose/nerdtree'
 Bundle 'humiaozuzu/TabBar'
 Bundle 'majutsushi/tagbar'
-Bundle 'mileszs/ack.vim'
+" Bundle 'mileszs/ack.vim'
 Bundle 'kien/ctrlp.vim'
 Bundle 'tpope/vim-fugitive'
 Bundle 'Lokaltog/vim-powerline'
